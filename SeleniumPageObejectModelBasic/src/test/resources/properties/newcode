@@ -1,0 +1,14 @@
+
+	<testResources>
+			<testResource>
+				<directory> src/test/resources/properties</directory>
+				<includes>
+					<include>log4j.properties</include>
+				</includes>
+			</testResource>
+
+		</testResources>
+		
+		aa code na lakhavo test ng ma jarur nathi.
+		
+		Aa code lakhsu to test/resource package move thayi jase
