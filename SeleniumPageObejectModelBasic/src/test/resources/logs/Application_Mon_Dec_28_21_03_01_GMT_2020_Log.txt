@@ -1,0 +1,3 @@
+21:03:02,663  INFO Page:81 - Config file loaded
+21:03:02,666  INFO Page:104 - OR file loaded
+21:03:06,826  INFO Page:141 - Chrome Launched

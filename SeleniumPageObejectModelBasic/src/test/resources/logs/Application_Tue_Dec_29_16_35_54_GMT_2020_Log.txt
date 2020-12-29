@@ -1,0 +1,4 @@
+16:35:56,106  INFO Page:81 - Config file loaded
+16:35:56,109  INFO Page:104 - OR file loaded
+16:36:00,067  INFO Page:141 - Chrome Launched
+16:36:54,680  INFO Page:241 - Chrome Closed
